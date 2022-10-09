@@ -10,7 +10,7 @@
     text-decoration: none;
 }
 .navbar a:hover {
-    background-color: #000;
+    background-color: rgb(170, 27, 27);
     color: #fff;
     transition: all 0.5s;
 }
